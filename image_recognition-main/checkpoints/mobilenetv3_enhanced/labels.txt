@@ -1,0 +1,4 @@
+bolt
+locatingpin
+nut
+washer

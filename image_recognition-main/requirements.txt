@@ -1,0 +1,9 @@
+# === Core ===
+tensorflow-cpu==2.19.0     # latest stable TF that works on Python 3.10+
+numpy<2                    # pin to 1.26.x to avoid ABI clash
+# === Web API ===
+flask==3.0.2
+flask-cors==4.0.0
+gunicorn==21.2.0
+# === Utils ===
+pillow==10.3.0
