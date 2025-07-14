@@ -1,5 +1,5 @@
 # === Core ===
-tensorflow==2.19.0
+tensorflow==2.13.0
      # latest stable TF that works on Python 3.10+
 numpy<2                    # pin to 1.26.x to avoid ABI clash
 # === Web API ===
